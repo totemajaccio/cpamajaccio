@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ST ON</title>
+    <g id="CNAM_interieure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-3-CNAM_interieure_player" transform="translate(-1173.000000, -675.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="video/image" transform="translate(120.000000, 63.000000)">
+                <path d="M1065,612 C1058.662,612 1053,616.226 1053,622.007 C1053,624.057 1053.738,626.07 1055.047,627.632 C1055.102,629.462 1054.024,632.088 1053.054,634 C1055.656,633.53 1059.355,632.492 1061.032,631.464 C1070.268,633.711 1077,628.059 1077,622.007 C1077,616.195 1071.299,612 1065,612 Z M1065,626 L1059,626 L1059,625 L1065,625 L1065,626 Z M1071,623 L1059,623 L1059,622 L1071,622 L1071,623 Z M1071,620 L1059,620 L1059,619 L1071,619 L1071,620 Z" id="ST-ON"></path>
+            </g>
+        </g>
+    </g>
+</svg>
